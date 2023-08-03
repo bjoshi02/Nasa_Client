@@ -1,4 +1,4 @@
-const API_URL = 'v1';
+const API_URL = 'https://nasa-server02.onrender.com';
 
 // Load planets and return as JSON.
 async function httpGetPlanets() {
